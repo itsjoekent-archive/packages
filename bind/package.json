@@ -1,6 +1,6 @@
 {
   "name": "itsjoekent-bind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bind functions to a scope",
   "main": "npm_dist/index.js",
   "scripts": {
