@@ -1,0 +1,30 @@
+{
+  "name": "itsjoekent-bind",
+  "version": "1.0.0",
+  "description": "Bind functions to a scope",
+  "main": "npm_dist/index.js",
+  "scripts": {
+    "build": "babel src/index.js -o npm_dist/index.js",
+    "prepublish": "npm run build",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjoekent/packages.git"
+  },
+  "keywords": [
+    "Bind",
+    "functions",
+    "helper"
+  ],
+  "author": "Joe Kent <hey@joekent.nyc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsjoekent/packages/issues"
+  },
+  "homepage": "https://github.com/itsjoekent/packages#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
