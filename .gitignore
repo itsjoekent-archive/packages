@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# npm distribution files
+*/npm_dist/*
