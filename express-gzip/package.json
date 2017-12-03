@@ -2,7 +2,7 @@
   "name": "itsjoekent-express-gzip",
   "version": "1.0.0",
   "description": "Handle gzip requests for an express app",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
