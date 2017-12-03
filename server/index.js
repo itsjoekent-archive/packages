@@ -40,19 +40,6 @@ module.exports = {
 };
 
 /*
-
-events
-- pre bind
-- post bind
-
-options
-- routes
-- catch-all route
-- enable socket io
-- enable cluster
-- public folder
+TODO TOOLS:
 - allow CORS requests
-- access to app
-- gzip aseets
-
  */

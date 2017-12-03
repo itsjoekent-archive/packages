@@ -1,0 +1,19 @@
+{
+  "name": "itsjoekent-assets",
+  "version": "1.0.0",
+  "description": "Quickly spin-up a webpack config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjoekent/packages.git"
+  },
+  "author": "Joe Kent <hey@joekent.nyc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsjoekent/packages/issues"
+  },
+  "homepage": "https://github.com/itsjoekent/packages#readme"
+}
